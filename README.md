@@ -11,3 +11,4 @@ Run `learn` until you get all of the RSpec tests to pass.
 
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 16](https://projecteuler.net/problem=16)
+<a href='https://learn.co/lessons/project-euler-power-digit-sum' data-visibility='hidden'>View this lesson on Learn.co</a>
